@@ -13,12 +13,13 @@
    - ![Python](https://img.shields.io/badge/-Python-blue)
    - ![C](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)
 
-### Tecnologias Usadas em Repositórios
-- Axios + Tailwind CSS.
+### Tecnologias que mais gosto.
+- Axios, Express. 
 - Vue, Vite.
-- Express.
-- Bootstrap.
-- React + Next.
+- Bootstrap + Tailwind CSS.
+- React, Next.
+- Python `no geral`
+- TypeScript `utilizando bastante em estudo`
 
 ### Contato
 - 📧 Email: bigriann18@gmail.com
