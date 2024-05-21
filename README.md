@@ -2,24 +2,25 @@
 
 👨🏻‍💻 **Estudante de Programação**
 
-🏢 Unimed 
+🏢 Mineirim trabalhando atualmente p/ Unimed, buscando oportunidades na área tec!
 
-### Sobre
+### Infos Academicas
 - 👨🏻‍🎓 **Cursando Desenvolvimento de Sistemas Full Stack**
+- 💻 **Com certificação Practicioner AWS Cloud**
 - 💻 **Tecnologias que mais utilizo**: 
    - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
    - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
    - ![Vue.js](https://img.shields.io/badge/-Vue.js-green)
    - ![Python](https://img.shields.io/badge/-Python-blue)
-   - ![C](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)
 
-### Tecnologias que mais gosto.
-- Axios, Express. 
-- Vue, Vite.
-- Bootstrap + Tailwind CSS.
-- React, Next.
-- Python `no geral`
-- TypeScript `utilizando bastante em estudo`
+### Gosto demais das tecs:
+- Axios, Express. (Para requisições, criar api's...)
+- Vue, Vite. (Duas tecs front que ando utilizando bastante...)
+- Bootstrap + Tailwind CSS. (Estas libs front são vida <3)
+- React, Next. (Dois frameworks que ando estudando bastante)
+- Python. `no geral` (Como não amar python?)
+- TypeScript. `utilizando bastante em estudo` (Js já e bom, imagina superSetado!)
+- C. `utilizando bastante em estudos` (Estudar algoritmos fica melhor em C)
 
 ### Contato
 - 📧 Email: bigriann18@gmail.com
