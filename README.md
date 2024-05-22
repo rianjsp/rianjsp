@@ -6,7 +6,8 @@
 
 ### Infos Academicas
 - 👨🏻‍🎓 **Cursando Desenvolvimento de Sistemas Full Stack**
-- 💻 **Com certificação Practicioner AWS Cloud**
+- 💻 **Certificação Practicioner AWS Cloud**
+- 💻 **Certificação adquirida em SOFT SKILLS `DANKICODE`**
 - 💻 **Tecnologias que mais utilizo**: 
    - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
    - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -24,7 +25,7 @@
 
 ### Contato
 - 📧 Email: bigriann18@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/rianjoseph](rian-joseph-946506239)
+- 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/rian-joseph-946506239)
 - 📸 Instagram: [Instagram](https://instagram.com/rian_jsp)
 
 Feito com ❤️ por Rian Ramos 👋🏽 Entre em contato!
