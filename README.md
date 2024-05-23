@@ -1,4 +1,4 @@
-### Hi, i am Rian Joseph Ramos
+### Hi, i am Rian Ramos
 
 👨🏻‍💻 **Estudante de Programação**
 
