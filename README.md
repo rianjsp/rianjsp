@@ -14,7 +14,7 @@
    - ![Vue.js](https://img.shields.io/badge/-Vue.js-green)
    - ![Python](https://img.shields.io/badge/-Python-blue)
 
-### Gosto demais das tecs:
+### Tecs com afinidade:
 - Axios, Express. (Para requisições, criar api's...)
 - Vue, Vite. (Duas tecs front que ando utilizando bastante...)
 - Bootstrap + Tailwind CSS. (Estas libs front são vida <3)
