@@ -5,8 +5,8 @@
 🏢 Mineirim trabalhando atualmente p/ Unimed, buscando oportunidades na área tec!
 
 ### Infos Academicas
-- 👨🏻‍🎓 **Cursando Desenvolvimento de Sistemas Full Stack**
-- 💻 **Certificação Practicioner AWS Cloud**
+- 👨🏻‍🎓 **Cursando Desenvolvimento de Sistemas Full Stack `Estácio`**
+- 💻 **Certificação Practicioner AWS Cloud `AWS | KASolution | Estácio`**
 - 💻 **Certificação adquirida em SOFT SKILLS `DANKICODE`**
 - 💻 **Tecnologias que mais utilizo**: 
    - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
