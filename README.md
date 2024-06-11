@@ -23,7 +23,7 @@
 - TypeScript. `utilizando bastante em estudo` (Js já e bom, imagina superSetado!)
 - C. `utilizando bastante em estudos` (Estudar algoritmos fica melhor em C)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&show_icons=true)
+
 
 ### Contato
 - 📧 `Email: bigriann18@gmail.com`
@@ -31,3 +31,4 @@
 - 📸 `Instagram: [Instagram](https://instagram.com/rian_jsp)`
 
 Feito com ❤️ por Rian Ramos 👋🏽 Entre em contato!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&show_icons=true)
