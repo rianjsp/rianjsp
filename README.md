@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=F71DCA&random=false&width=435&lines=Hello!+I+Am+Rian+Ramos)](https://git.io/typing-svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&hide=contribs,prs)
+
 
 👨🏻‍💻 **Estudante de Programação**
 
@@ -23,6 +23,9 @@
 - Python. `no geral` (Como não amar python?)
 - TypeScript. `utilizando bastante em estudo` (Js já e bom, imagina superSetado!)
 - C. `utilizando bastante em estudos` (Estudar algoritmos fica melhor em C)
+<hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&hide=contribs,prs)
+
 
 ### Contato
 - 📧 Email: bigriann18@gmail.com
