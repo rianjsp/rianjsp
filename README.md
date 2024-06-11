@@ -23,53 +23,10 @@
 - TypeScript. `utilizando bastante em estudo` (Js já e bom, imagina superSetado!)
 - C. `utilizando bastante em estudos` (Estudar algoritmos fica melhor em C)
 
-<hr>
-
-<div id="linguagens-utilizadas">
-  Carregando...
-</div>
-
-<script>
-  // Função para fazer uma requisição GET para a API do GitHub
-  async function getLinguagensUtilizadas() {
-    try {
-      const response = await fetch("https://api.github.com/users/rianjsp/repos");
-      const repositorios = await response.json();
-
-      // Calcular as linguagens mais utilizadas
-      const linguagens = {};
-      repositorios.forEach(repo => {
-        const { language } = repo;
-        if (language) {
-          linguagens[language] = (linguagens[language] || 0) + 1;
-        }
-      });
-
-      // Ordenar as linguagens por quantidade de uso
-      const linguagensOrdenadas = Object.entries(linguagens).sort((a, b) => b[1] - a[1]);
-
-      // Construir HTML para exibir as linguagens
-      const html = linguagensOrdenadas.map(([linguagem, quantidade]) => {
-        return `<div>${linguagem}: ${quantidade}</div>`;
-      }).join('');
-
-      // Exibir as linguagens no elemento HTML
-      document.getElementById("linguagens-utilizadas").innerHTML = html;
-    } catch (error) {
-      console.error('Erro ao obter linguagens utilizadas:', error);
-      document.getElementById("linguagens-utilizadas").innerHTML = "Erro ao carregar as linguagens utilizadas.";
-    }
-  }
-
-  // Chamar a função para obter e exibir as linguagens utilizadas
-  getLinguagensUtilizadas();
-</script>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&hide=contribs,prs)
-
 ### Contato
 - 📧 Email: bigriann18@gmail.com
 - 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/rian-joseph-946506239)
 - 📸 Instagram: [Instagram](https://instagram.com/rian_jsp)
 
 Feito com ❤️ por Rian Ramos 👋🏽 Entre em contato!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&hide=contribs,prs)
