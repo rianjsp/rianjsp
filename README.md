@@ -23,7 +23,7 @@
 - TypeScript. `utilizando bastante em estudo` (Js já e bom, imagina superSetado!)
 - C. `utilizando bastante em estudos` (Estudar algoritmos fica melhor em C)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianjsp)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianjsp&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&show_icons=true)
 
