@@ -31,4 +31,5 @@
 - 📸 `Instagram: [Instagram](https://instagram.com/rian_jsp)`
 
 Feito com ❤️ por Rian Ramos 👋🏽 Entre em contato!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&show_icons=true)
