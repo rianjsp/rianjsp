@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=5D02F7&random=false&width=435&lines=Hello!+I+Am+Rian+Ramos)](https://git.io/typing-svg)
+
 👨🏻‍💻 **Estudante de Programação**
 
 🏢 Mineirim trabalhando atualmente p/ Unimed, buscando oportunidades na área tec!
