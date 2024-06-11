@@ -30,3 +30,4 @@
 
 Feito com ❤️ por Rian Ramos 👋🏽 Entre em contato!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&show_icons=true)
