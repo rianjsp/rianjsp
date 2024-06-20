@@ -15,13 +15,12 @@
    - ![Python](https://img.shields.io/badge/-Python-blue)
 
 ### Tecs com afinidade:
-- Axios, Express. (Para requisições, criar api's...)
-- Vue, Vite. (Duas tecs front que ando utilizando bastante...)
-- Bootstrap + Tailwind CSS. (Estas libs front são vida <3)
-- React, Next. (Dois frameworks que ando estudando bastante)
-- Python. `no geral` (Como não amar python?)
-- TypeScript. `utilizando bastante em estudo` (Js já e bom, imagina superSetado!)
-- C. `utilizando bastante em estudos` (Estudar algoritmos fica melhor em C)
+- Axios, Express
+- Vue, React, Next, Angular
+- Bootstrap + Tailwind CSS
+- Python. `no geral`
+- TypeScript. `utilizando bastante em estudo`
+- C. `utilizando bastante em estudos` 
 
 
 
@@ -30,6 +29,6 @@
 - 🔗 `LinkedIn: [linkedin](https://www.linkedin.com/in/rian-joseph-946506239)`
 - 📸 `Instagram: [Instagram](https://instagram.com/rian_jsp)`
 
-Feito com ❤️ por Rian Ramos 👋🏽 Entre em contato!
+Feito com ❤️ por **Rian Ramos** 👋🏽 Entre em contato!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&show_icons=true)
