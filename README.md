@@ -19,8 +19,8 @@
 
 ### Contato
 - 📧 `Email: bigriann18@gmail.com`
-- 🔗 `LinkedIn: (https://www.linkedin.com/in/rian-joseph-946506239)`
-- 📸 `Instagram: (https://instagram.com/rian_jsp)`
+- 🔗 `LinkedIn:`https://www.linkedin.com/in/rian-joseph-946506239
+- 📸 `Instagram:` https://instagram.com/rian_jsp
 
 Feito com ❤️ por **Rian Ramos** 👋🏽 Entre em contato!
 
