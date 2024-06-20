@@ -8,11 +8,6 @@
 - 👨🏻‍🎓 **Cursando Desenvolvimento de Sistemas Full Stack `Estácio`**
 - 💻 **Certificação Practicioner AWS Cloud `AWS | KASolution | Estácio`**
 - 💻 **Certificação adquirida em SOFT SKILLS `DANKICODE`**
-- 💻 **Tecnologias que mais utilizo**: 
-   - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-   - ![Vue.js](https://img.shields.io/badge/-Vue.js-green)
-   - ![Python](https://img.shields.io/badge/-Python-blue)
 
 ### Tecs com afinidade:
 - Axios, Express
