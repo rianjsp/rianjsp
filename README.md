@@ -17,10 +17,8 @@
 ### Tecs com afinidade:
 - Axios, Express
 - Vue, React, Next, Angular
-- Bootstrap + Tailwind CSS
-- Python. `no geral`
-- TypeScript. `utilizando bastante em estudo`
-- C. `utilizando bastante em estudos` 
+- Bootstrap, Tailwind CSS
+- Python, TypeScript. `utilizando bastante em estudos`
 
 
 
