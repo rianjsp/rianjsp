@@ -1,35 +1,3 @@
-
-.wave-container {
-  position: relative;
-  background-color: #fff;
-  overflow: hidden;
-  height: 200px; /* Altura das ondas, ajuste conforme necessário */
-}
-
-.wave {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100px; /* Altura das ondas, ajuste conforme necessário */
-  background: radial-gradient(circle, rgba(144, 43, 144, 0.8) 0%, rgba(144, 43, 144, 0.6) 50%, rgba(144, 43, 144, 0.4) 100%);
-  animation: wave 10s linear infinite;
-}
-
-@keyframes wave {
-  0% {
-    transform: translateX(0) translateY(10px);
-  }
-  100% {
-    transform: translateX(-100%) translateY(10px);
-  }
-}
-
-
-<div class="wave-container">
-  <div class="wave"></div>
-</div>
-
 # 💜 Olá, eu sou `Rian Joseph Ramos`
 
 `Futuro Desenvolvedor de Sistemas fullstack`
