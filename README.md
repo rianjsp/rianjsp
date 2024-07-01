@@ -1,4 +1,4 @@
-<style>
+
 .wave-container {
   position: relative;
   background-color: #fff;
@@ -24,7 +24,7 @@
     transform: translateX(-100%) translateY(10px);
   }
 }
-</style>
+
 
 <div class="wave-container">
   <div class="wave"></div>
