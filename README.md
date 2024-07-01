@@ -59,6 +59,6 @@ Veja mais sobre meus trabalhos de faculdade dentro do repositório chamado `Dese
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
-[![Linkedin](https://img.shields.io/badge/-rianjsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-joseph/)](https://www.linkedin.com/in/rian-joseph/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-rianjoseph-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-joseph/)](https://www.linkedin.com/in/rian-joseph/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bigriann18@gmail.com)](mailto:bigriann18@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/rianjsp?label=follow&style=social)](https://github.com/rianjsp)
