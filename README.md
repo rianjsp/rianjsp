@@ -1,4 +1,4 @@
-![Olá! Meu nome e Rian joseph, estudante de Desenvolvimento de Sistemas. Te convido a conhecer um pouco mais de mim!!!](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+💜 Olá, meu nome é `Rian joseph ramos`
 
 ### ⚙️ GitHub Analytics
 
