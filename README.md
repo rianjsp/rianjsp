@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=5D02F7&random=false&width=435&lines=Hello!+I+Am+Rian+Ramos)](https://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianjsp&hide=contribs,prs)
+
 
 👨🏻‍💻 **Estudante de Programação**
 
