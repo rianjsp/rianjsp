@@ -1,7 +1,33 @@
-<div style="position: relative; height: 150px; overflow: hidden;">
-  <svg class="wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-    <path fill="#902b90" fill-opacity="1" d="M0,96L60,85.3C120,75,240,53,360,64C480,75,600,117,720,133.3C840,149,960,139,1080,112C1200,85,1320,43,1380,21.3L1440,0L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
-  </svg>
+<style>
+.wave-container {
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  height: 200px; /* Altura das ondas, ajuste conforme necessário */
+}
+
+.wave {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px; /* Altura das ondas, ajuste conforme necessário */
+  background: radial-gradient(circle, rgba(144, 43, 144, 0.8) 0%, rgba(144, 43, 144, 0.6) 50%, rgba(144, 43, 144, 0.4) 100%);
+  animation: wave 10s linear infinite;
+}
+
+@keyframes wave {
+  0% {
+    transform: translateX(0) translateY(10px);
+  }
+  100% {
+    transform: translateX(-100%) translateY(10px);
+  }
+}
+</style>
+
+<div class="wave-container">
+  <div class="wave"></div>
 </div>
 
 # 💜 Olá, eu sou `Rian Joseph Ramos`
