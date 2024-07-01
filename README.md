@@ -1,4 +1,9 @@
-## Hello! Meu nome e Rian joseph ramos
+## `Hello! Meu nome e Rian joseph ramos`
+
+- 👨🏻‍🎓 **Estou Cursando Desenvolvimento de Sistemas Full Stack `Estácio`**
+- 💻 **Certificação Practicioner AWS Cloud `AWS | KASolution | Estácio`**
+- 💻 **Certificação adquirida em SOFT SKILLS `DANKICODE`**
+
 
 ### ⚙️ GitHub Analytics
 
@@ -32,9 +37,7 @@
 --- 
 
 ### Infos Academicas
-- 👨🏻‍🎓 **Cursando Desenvolvimento de Sistemas Full Stack `Estácio`**
-- 💻 **Certificação Practicioner AWS Cloud `AWS | KASolution | Estácio`**
-- 💻 **Certificação adquirida em SOFT SKILLS `DANKICODE`**
+
 
 ## Minhas Skills
 
