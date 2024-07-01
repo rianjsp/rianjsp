@@ -1,6 +1,6 @@
 
 
-## Olá, meu nome é [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=5D02F7&random=false&width=435&lines=Rian+Ramos)](https://git.io/typing-svg)!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=5D02F7&random=false&width=435&lines=Olá+meu+nome+e+Rian+Ramos)](https://git.io/typing-svg)
 
 ### ⚙️ GitHub Analytics
 
