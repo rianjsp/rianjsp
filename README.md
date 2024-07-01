@@ -7,7 +7,7 @@
 **Matrícula:** 2022029..
 **Turma:** 2023.1
 
----
+
 
 ## ⚙️ GitHub Stats
 
@@ -26,7 +26,7 @@
   </tr>
 </table>
 
----
+
 
 # &nbsp;Um pouco mais
 
