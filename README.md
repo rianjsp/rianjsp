@@ -19,10 +19,6 @@
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianjsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
-    <td>
-      <br />
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rianjsp&theme=dark&hide_border=false" alt="Github Streak" />
-    </td>
   </tr>
 </table>
 
