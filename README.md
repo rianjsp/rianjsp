@@ -3,9 +3,9 @@
 `Desenvolvedor de Sistemas fullstack` -
 `POLO BARREIRO - BELO HORIZONTE - MG - 3/5`
 
-**Aluno:** Rian Joseph Ramos 
-**Matrícula:** 2022029..
-**Turma:** 2023.1
+- **Aluno:** Rian Joseph Ramos 
+- **Matrícula:** 2022029..
+- **Turma:** 2023.1
 
 
 
