@@ -1,5 +1,6 @@
 # 💜 Olá, eu sou `Rian Joseph Ramos`
 
+`Futuro Desenvolvedor de Sistemas fullstack`
 `POLO BARREIRO - BELO HORIZONTE - MG`
 
 **Aluno:** Rian Joseph Ramos Felizardo  
@@ -27,13 +28,13 @@
 
 ---
 
-# 👋 &nbsp;Um pouco mais+
+# &nbsp;Um pouco mais
 
 Sou um estudante de graduação tecnológica na `Estácio`, cursando Desenvolvimento de Sistemas Fullstack. Atualmente, trabalho na cooperativa de médicos Unimed-BH e estou buscando conhecimento e oportunidades para seguir minha paixão na carreira.
 
-## 📊 &nbsp;Skills
+## &nbsp;Skills
 
-**Aplicações e Dados**
+**Aplicações e Estudo**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
