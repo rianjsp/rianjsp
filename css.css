@@ -1,16 +1,1 @@
-.wave {
-  position: absolute;
-  bottom: 0;
-  z-index: -1;
-  width: 100%;
-  animation: wave 15s linear infinite alternate;
-}
 
-@keyframes wave {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-100%);
-  }
-}
