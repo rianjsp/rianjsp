@@ -49,3 +49,5 @@ Sou um estudante de graduação tecnológica na `Estácio`, cursando Desenvolvim
 
 [![Linkedin](https://img.shields.io/badge/-rianjoseph-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-joseph/)](https://www.linkedin.com/in/rian-joseph/)
 [![GitHub](https://img.shields.io/github/followers/rianjsp?label=follow&style=social)](https://github.com/rianjsp)
+
+https://camo.githubusercontent.com/5ec20c74483c618e85ce9b782222beccbabcdad0043cb6d822ff64c368b8f398/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303036616530266865696768743d3132352673656374696f6e3d666f6f746572
