@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou `Rian Joseph Ramos`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=7000&color=C109F7&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%92%9C+Op%C3%A1!+Meu+nome+e+Rian+Joseph+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 `Desenvolvedor de Sistemas fullstack` -
 `POLO BARREIRO - BELO HORIZONTE - MG - 3/5`
