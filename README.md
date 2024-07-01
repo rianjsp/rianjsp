@@ -1,10 +1,10 @@
 # 💜 Olá, eu sou `Rian Joseph Ramos`
 
-`Futuro Desenvolvedor de Sistemas fullstack`
-`POLO BARREIRO - BELO HORIZONTE - MG`
+`Desenvolvedor de Sistemas fullstack` -
+`POLO BARREIRO - BELO HORIZONTE - MG - 3/5`
 
-**Aluno:** Rian Joseph Ramos Felizardo  
-**Matrícula:** 202202923931  
+**Aluno:** Rian Joseph Ramos 
+**Matrícula:** 2022029...
 **Turma:** 2023.1
 
 ---
