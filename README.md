@@ -26,9 +26,9 @@
 
 # &nbsp;Um pouco mais
 
-Sou um estudante de graduação tecnológica na `Estácio`, cursando Desenvolvimento de Sistemas Fullstack. Atualmente, trabalho na cooperativa de médicos Unimed-BH e estou buscando conhecimento e oportunidades para seguir minha paixão na carreira.
+Sou um estudante de graduação tecnológica na `Estácio`, cursando Desenvolvimento de Sistemas Fullstack. Atualmente, trabalho na cooperativa de médicos Unimed-BH pela **Tech Brasileira POSITIVO**, e estou buscando conhecimento e oportunidades para seguir minha paixão na carreira.
 
-Sou apaixonado por tecnologia, inovação e conhecimento. Independente da área, meu maior prazer e estudar coisas fodas!
+Sou apaixonado por tecnologia, inovação e conhecimento. Independente da área, meu maior prazer e estudar coisas F#@#S!
 
 ## &nbsp;Skills
 
