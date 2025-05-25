@@ -49,11 +49,11 @@
 
 ### 🎓 Certificações e Cursos
 
-- 📜 **Scrum Foundation Professional Certificate** – CertiProf  
-- 🧠 **Soft Skills: Comunicação e Colaboração no Trabalho** – Estácio  
-- ☁️ **Fundamentos de Cloud AWS** – Amazon Web Services (AWS Academy)  
+- 📜 **Scrum Foundation Professional Certificate** – DankiCode  
+- 🧠 **Soft Skills: Comunicação e Colaboração no Trabalho** – DankiCode e Estácio  
+- ☁️ **Fundamentos de Cloud AWS** – Amazon Web Services (AWS Academy) Kan Academy e Estácio 
 - 🧩 **Desenvolvimento de Sistemas Web Full Stack** – Estácio  
-- 📲 **React Native: Aplicativos Mobile do Zero** – Rocketseat  
+- 📲 **React Native, Flutter: Aplicativos Mobile do Zero** – Estácio e DankiCode  
 
 ---
 
