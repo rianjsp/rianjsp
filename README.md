@@ -1,46 +1,55 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=7000&color=6A5ACD&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%92%9CHello!+I+am+Rian+Joseph%F0%9F%92%9C)](https://git.io/typing-svg)
+<!-- Banner com Animação -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=7000&color=6A5ACD&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%92%9CHello!+I+am+Rian+Joseph%F0%9F%92%9C" alt="Typing SVG" />
+  </a>
+</p>
 
-`Desenvolvedor de Sistemas fullstack` -
-`POLO BARREIRO - BELO HORIZONTE - MG - 4/6`
+---
 
-- **Aluno:** Rian Joseph Ramos 
-- **Matrícula:** 2022029..
-- **Turma:** 2023.1
+### 👨‍💻 Sobre Mim
 
+🎓 **Graduando em Desenvolvimento de Sistemas Full Stack**  
+🏫 **Estácio - Polo Barreiro / Belo Horizonte - MG**  
+📚 **Turma:** 2023.1 &nbsp;&nbsp;&nbsp;🆔 **Matrícula:** 2022029...  
+💼 **Trabalho atual:** Técnico de Informática na **Positivo Tecnologia**, atuando na **Unimed-BH**  
+🚀 Apaixonado por tecnologia, inovação e aprendizado constante. Sempre buscando criar soluções F#@#s!  
 
+---
 
-## ⚙️ GitHub Stats
+### 🛠️ Tecnologias & Ferramentas
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=rianjsp&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
-    </td>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianjsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
+---
 
+### 📊 Estatísticas do GitHub
 
-# &nbsp;Um pouco mais
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianjsp&show_icons=true&theme=dark&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianjsp&layout=compact&langs_count=8&theme=dark&hide_border=false" alt="Top Languages" />
+</div>
 
-Sou um estudante de graduação tecnológica na `Estácio`, cursando Desenvolvimento de Sistemas Fullstack. Atualmente, trabalho na cooperativa de médicos Unimed-BH pela **Tech Brasileira POSITIVO**, e estou buscando conhecimento e oportunidades para seguir minha paixão na carreira.
+---
 
-Sou apaixonado por tecnologia, inovação e conhecimento. Independente da área, meu maior prazer e estudar coisas F#@#S!
+### 🌐 Conecte-se comigo
 
-## &nbsp;Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-[![Linkedin](https://img.shields.io/badge/-rianjoseph-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rian-joseph/)](https://www.linkedin.com/in/rian-joseph/)
-[![GitHub](https://img.shields.io/github/followers/rianjsp?label=follow&style=social)](https://github.com/rianjsp)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rian-joseph/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rianjsp" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/rianjsp?label=Seguidores&style=social" />
+</p>
