@@ -1,7 +1,7 @@
 <!-- Banner com Animação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=7000&color=008B8B&center=true&vCenter=true&random=true&width=480&lines=%F0%9F%9A%80+Olá!+Sou+Rian+Joseph+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=7000&color=008B8B&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%92%9CHello!+I+am+Rian+Joseph%F0%9F%92%9C" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,15 +14,6 @@
 📘 **Turma:** 2023.1 &nbsp;&nbsp;&nbsp;🆔 **Matrícula:** 2022029...  
 💼 **Atuação Profissional:** Técnico de Informática na **Positivo Tecnologia**, alocado na **Unimed-BH**  
 🚀 Sou movido por tecnologia, inovação e desafios. Acredito que o estudo constante e a curiosidade são as chaves para construir soluções incríveis e impactar positivamente o mundo.
-
----
-
-### 🚧 Projetos em Destaque
-
-- 🔒 **[Doma Wear OS App](https://github.com/rianjsp/doma-wearos)** – Aplicativo assistivo com áudio para PCDs, focado em comandos de voz e segurança.
-- 📊 **[Leo Fitness](https://github.com/rianjsp/leo-fitness)** – Plataforma de gestão de treinos e feedbacks usando IA para academias.
-- 💰 **[Gestor Financeiro com IA](https://github.com/rianjsp/gestor-financeiro)** – App para controle de finanças pessoais e bancas de apostas com dicas inteligentes.
-- 📬 **[Sistema de Feedback NPS](https://github.com/rianjsp/nps-feedback)** – Plataforma de análise de feedbacks pós-venda com inteligência artificial para insights estratégicos.
 
 ---
 
