@@ -1,7 +1,7 @@
 <!-- Banner com Animação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=7000&color=008B8B&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%92%9CHello!%F0%9F%92%9C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=1000&pause=7000&color=008B8B&center=true&vCenter=true&random=true&width=435&lines=Hello!+I+am+Rian+Joseph" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 🎓 **Graduando em Desenvolvimento de Sistemas Full Stack**  
 🏫 **Estácio - Polo Barreiro / Belo Horizonte - MG**  
 📘 **Turma:** 2023.1 &nbsp;&nbsp;&nbsp;🆔 **Matrícula:** 2022029...  
-💼 **Atuação Profissional:** Técnico de Informática na **Positivo Tecnologia**, alocado na **Unimed-BH**  
+💼 **Atuação Profissional:** Técnico de Informática Jr na **Positivo S+**, alocado na **Unimed-BH**  
 🚀 Sou movido por tecnologia, inovação e desafios. Acredito que o estudo constante e a curiosidade são as chaves para construir soluções incríveis e impactar positivamente o mundo.
 
 ---
